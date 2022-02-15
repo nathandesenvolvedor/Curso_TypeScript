@@ -1,0 +1,23 @@
+{
+  "name": "curso_typescript",
+    "version": "1.0.0",
+      "description": "Aulas arquivadas do TypeScript",
+        "main": "index.js",
+          "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/nathandesenvolvedor/Curso_TypeScript.git"
+  },
+  "keywords": [],
+    "author": "",
+      "license": "ISC",
+        "bugs": {
+    "url": "https://github.com/nathandesenvolvedor/Curso_TypeScript/issues"
+  },
+  "homepage": "https://github.com/nathandesenvolvedor/Curso_TypeScript#readme",
+    "dependencies": {
+    "tslib": "^2.3.1"
+  }
+}
