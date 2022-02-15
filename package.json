@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nathandesenvolvedor/Curso_TypeScript#readme",
     "dependencies": {
     "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
   }
 }
