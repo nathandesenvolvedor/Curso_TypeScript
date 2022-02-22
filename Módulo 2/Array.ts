@@ -25,5 +25,5 @@ console.log(frutas5.length);//4
 
 // ==> Exemplo 6 - Array com Spread Operator 
 let listNumber: Array<number> = [1, 2, 3, 4, 5, 6]
-listNumber = [...listNumber, 7, 8, 9, 10]//A continuação do Array
+listNumber = [...listNumber, 7, 8, 9, 10]//A continuaçãgiuto do Array
 console.log(listNumber);//1,2,3,4,5,6,7,8,9,10
